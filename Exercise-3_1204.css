@@ -1,0 +1,45 @@
+body {
+	font-family: Copperplate,Times New Roman,Comic Sans MS;
+	margin-right: auto;
+	margin-left: : auto;
+	text-align: left;	
+	overflow: scroll;
+}
+
+p {
+	font-size: 15px;
+}
+h1 {
+	background-color: lavender;
+	color: purple;
+	margin-top: 1%;
+	margin-bottom:2%;
+}
+
+h2 {	
+	text-decoration: underline;
+	color: purple;
+}
+
+img {
+	float: left;
+	width: 40%;
+	height: 40%;
+	margin-right: 3%; 
+}
+
+.A {
+	font-weight: bold;
+	color: brown;
+}
+
+.B {
+	position: absolute;
+	top: 100pt;
+	left: 100pt;
+}
+
+#a {
+	color: coral;
+	
+}
